@@ -1,0 +1,8 @@
+Kathmandu,North,4,50000,Available
+Pokhara,East,5,60000,Not_Available
+Lalitpur,South,10,100000,Available
+Bhaktapur,East,3,70000,Not_Available
+Kavre,West,2,30000,Not_Available
+Pokhara,North,6,120000,Not_Available
+Thimi,South,7,40000,Not_Available
+Bhaktapur,West,12,200000,Available
